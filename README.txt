@@ -3,6 +3,8 @@ Contributers: circleb
 Donate link: http://benowen.net/donate
 Tags: elementor, acf, elementor addons, elementor elements, elementor widgets, custom fields, post object, list widget
 Tested up to: 5.7
+Stable tag: 0.5.0
+Requires PHP: 7.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 

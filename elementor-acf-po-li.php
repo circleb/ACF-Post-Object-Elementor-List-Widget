@@ -3,7 +3,7 @@
  * Plugin Name:       ACF Post Object Elementor List Widget
  * Plugin URI:        github.com/circleb/ACF-Post-Object-Elementor-List-Widget
  * Description:       Adds the ability to display the contents of an ACF Post Object field as a list of post links.
- * Version:           1.0.0
+ * Version:           0.5.0
  * Author:            Ben Owen
  * License:           GPLv3
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
@@ -14,7 +14,7 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 final class Elementor_ACF_PO_Extension {
-	const VERSION = '1.0.0';
+	const VERSION = '0.5.0';
 	const MINIMUM_ELEMENTOR_VERSION = '2.0.0';
 	const MINIMUM_PHP_VERSION = '7.0';
 
