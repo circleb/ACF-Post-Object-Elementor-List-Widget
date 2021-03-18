@@ -71,7 +71,7 @@ class Elementor_ACF_PO_Widget extends \Elementor\Widget_Base {
 		$this->add_control(
 			'title_color',
 			[
-				'label' => __( 'Color', 'elementor-acf-po-li-extension' ),
+				'label' => __( 'Title Color', 'elementor-acf-po-li-extension' ),
 				'type' => \Elementor\Controls_Manager::COLOR,
 				'scheme' => [
 					'type' => \Elementor\Scheme_Color::get_type(),
@@ -87,7 +87,7 @@ class Elementor_ACF_PO_Widget extends \Elementor\Widget_Base {
 			\Elementor\Group_Control_Typography::get_type(),
 			[
 				'name' => 'title_typography',
-				'label' => __( 'Typography', 'elementor-acf-po-li-extension' ),
+				'label' => __( 'Title Typography', 'elementor-acf-po-li-extension' ),
 				'scheme' => \Elementor\Scheme_Typography::TYPOGRAPHY_1,
 				'selector' => '{{WRAPPER}} .acf-po-elementor-title',
 			]
@@ -96,7 +96,7 @@ class Elementor_ACF_PO_Widget extends \Elementor\Widget_Base {
 		$this->add_control(
 			'posts_color',
 			[
-				'label' => __( 'Color', 'elementor-acf-po-li-extension' ),
+				'label' => __( 'Posts Color', 'elementor-acf-po-li-extension' ),
 				'type' => \Elementor\Controls_Manager::COLOR,
 				'scheme' => [
 					'type' => \Elementor\Scheme_Color::get_type(),
@@ -112,7 +112,7 @@ class Elementor_ACF_PO_Widget extends \Elementor\Widget_Base {
 			\Elementor\Group_Control_Typography::get_type(),
 			[
 				'name' => 'post_typography',
-				'label' => __( 'Typography', 'elementor-acf-po-li-extension' ),
+				'label' => __( 'Posts Typography', 'elementor-acf-po-li-extension' ),
 				'scheme' => \Elementor\Scheme_Typography::TYPOGRAPHY_1,
 				'selector' => '{{WRAPPER}} .acf-po-elementor-posts',
 			]
