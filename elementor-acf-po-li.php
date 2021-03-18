@@ -5,6 +5,8 @@
  * Description:       Adds the ability to display the contents of an ACF Post Object field as a list of post links.
  * Version:           1.0.0
  * Author:            Ben Owen
+ * License:           GPLv2 or later
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 if ( ! defined( 'WPINC' ) ) {
