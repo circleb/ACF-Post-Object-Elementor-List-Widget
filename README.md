@@ -1,5 +1,7 @@
 # ACF Post Object Elementor List Widget
  A WordPress Plugin that adds the ability to display the contents of an ACF Post Object field as a list of post links.
+ License: GPLv3
+
 ## Installation
  1. Advanced Custom Fields (free or PRO) must be installed and activated
  2. Elementor (free or PRO) must be installed and activated
